@@ -18,7 +18,7 @@ explorar tendencias clínicas, geográficas y documentales.
 ![Dashboard Tableau](dashboard/dashboard_preview.png)
 
 ## Dashboard interactivo
-- [Ver dashboard en Tableau Public]([ENLACE_A_TABLEAU](https://public.tableau.com/views/Anlisisdelaliteraturasobreinmunoterapiaperioperatoriaencncerdepulmn/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+- [Ver dashboard en Tableau Public]([(https://public.tableau.com/views/Anlisisdelaliteraturasobreinmunoterapiaperioperatoriaencncerdepulmn/Dashboard1?:language=es-ES&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)])
 
 ## Tecnologías utilizadas
 - Python (pandas, numpy, BioPython)
