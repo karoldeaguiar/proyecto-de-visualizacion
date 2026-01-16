@@ -14,6 +14,11 @@ explorar tendencias clínicas, geográficas y documentales.
 - dashboard/: material visual del dashboard
 - docs/: documentación adicional del proyecto
 
+## Datos
+Los datos utilizados en este proyecto se obtienen dinámicamente a partir de
+ClinicalTrials.gov y PubMed mediante scripts en Python.
+Por este motivo, no se incluyen los datasets completos en el repositorio.
+
 ## Vista previa del dashboard
 ![Dashboard Tableau](dashboard/dashboard_preview.png)
 
